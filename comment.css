@@ -136,7 +136,7 @@ main .gsc-comment-box-textarea:focus,
     visibility: hidden;
 }
 .gsc-reactions-count:after {
-    content: '欢迎一起来交流';
+    content: '欢迎一起来交流~';
     visibility: visible;
     font-size: 1.4rem;
     display: inline-block;
